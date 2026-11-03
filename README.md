@@ -1,19 +1,39 @@
 # Kafé Commit — Grupp 8
 
-## Roller
-- Scrum Master: Louie Alsaffar (även utvecklare)
-- Utvecklare: Emil, Paulina
+## Scrum-roller
+* **Scrum Master:** Louie Alsaffar (även utvecklare)
+* **Utvecklare:** Emil, Paulina
+
+---
 
 ## Tavla
 Länk till Google Kalkylark/Docs: https://docs.google.com/spreadsheets/d/1MD9hX4Vt2jOgVcSnynpFORJxdznO3k9PN80QascKtgU/edit?gid=0#gid=0
 
-## Sprintmål
-När sprinten är klar ska kaféets startsida visa …
+---
 
-## Agil motivering
-Genom att arbeta i korta, iterativa cykler kan vi testa dellösningar tidigt. Fördelen är att vi kan upptäcka tekniska hinder eller hantera förändrade kundkrav under en Daily Standup och anpassa backloggen utan att missa leveransdatumet.
+## Sprintmål
+När sprinten är avslutad ska kaféets startsida vara en enkel och användarvänlig landningssida där besökaren kan ta del av all viktig information om kaféet. Detta inkluderar öppettider, priser, Wi-Fi och lösenord, kontaktuppgifter, allergianpassade alternativ (exempelvis nötfria produkter), gratis parkering, veckans erbjudanden, kundkort, evenemang, vegetariska alternativ, betalningsmöjligheter, rullstolsanpassning samt information om uteserveringen. 
+
+---
+
+
+### Agil motivering
+Genom att dela upp arbetet i kortare utvecklingsfaser får vi möjlighet att kontinuerligt utvärdera och testa lösningar. Det gör att eventuella tekniska problem eller nya kundönskemål kan identifieras och diskuteras under våra Daily Standups, vilket ger oss flexibilitet att prioritera om i backloggen och samtidigt hålla den planerade leveranstiden.
+
+---
 
 ## Produktbacklog
+
+### US-3: Visa kafets adress
+* **User Story:** Som besökare vill jag kunna hitta och navigera mig till caféet.
+* **Acceptanskriterier:** Funktionen `funktion03()` returnerar strängen `"Adress: Gitgatan 1"` så att adressen visas på sidan.
+* **Ansvarig:** Louie Alsaffar
+
+### US-14: Visa information om tillgänglighetsanpassning
+* **User Story:** Som en rullstolsburen besökare vill jag se om caféet är tillgänglighetsanpassat för att veta om jag kan besöka.
+* **Acceptanskriterier:** Funktionen `funktion14()` returnerar strängen `"Tillgänglighet: rullstolsanpassat"` så att det är tydligt och synligt att caféet är rullstolsanpassat.
+* **Ansvarig:** Paulina
+
 
 
 ## Daily standups
