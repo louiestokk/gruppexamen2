@@ -29,9 +29,24 @@ Genom att dela upp arbetet i kortare utvecklingsfaser får vi möjlighet att kon
 * **Acceptanskriterier:** Funktionen `funktion03()` returnerar strängen `"Adress: Gitgatan 1"` så att adressen visas på sidan.
 * **Ansvarig:** Louie Alsaffar
 
+### US-12: Visa information om betalningsmetoder
+* **User Story:**  Som en kund vill jag se vilka betalningsmetoder som accepteras på caféet för att veta hur jag kan betala mitt köp.
+* **Acceptanskriterier:** Funktionen funktion12() returnerar strängen "Betalning: Swish och kort" så att det är tydligt vilka betalningsalternativ som accepteras.
+* **Ansvarig:** Paulina
+
+### US-13: Visa information om kundkort
+* **User Story:**  Som en återkommande kund vill jag se information om caféets kundkort för att förstå vilka förmåner som erbjuds.
+* **Acceptanskriterier:** Funktionen funktion13() returnerar strängen "Kundkort: var tionde kaffe gratis" så att kunder enkelt kan se vilken bonus som ingår i kundprogrammet.
+* **Ansvarig:** Paulina
+
 ### US-14: Visa information om tillgänglighetsanpassning
 * **User Story:** Som en rullstolsburen besökare vill jag se om caféet är tillgänglighetsanpassat för att veta om jag kan besöka.
 * **Acceptanskriterier:** Funktionen `funktion14()` returnerar strängen `"Tillgänglighet: rullstolsanpassat"` så att det är tydligt och synligt att caféet är rullstolsanpassat.
+* **Ansvarig:** Paulina
+
+### US-15: Visa information om uterservering
+* **User Story:**  Som en gäst vill jag kunna se om caféet har en uteservering för att veta om det finns möjlighet att sitta utomhus.
+* **Acceptanskriterier:** Funktionen funktion15() returnerar strängen "Uteservering: öppen maj–sep" så att gäster enkelt kan se när uteserveringen är tillgänglig.
 * **Ansvarig:** Paulina
 
 
@@ -82,7 +97,8 @@ När arbetet började flyttades kortet från "Att göra" till "Pågår". Utveckl
 En merge-konflikt uppstår när två personer ändrar samma del av en fil och Git inte kan avgöra vilken version som ska användas. Konflikten löses genom att jämföra de olika ändringarna och välja eller kombinera den korrekta versionen innan merge genomförs. Ett exempel kan vara om två personer samtidigt ändrar samma funktion i index.html.
 
 ## Personlig reflektion
-### [Namn]
-(2–3 meningar)
+### Paulina
+Jag har lärt mig hur GitHub används i ett teamprojekt och hur reviews bidrar till bättre kvalitet. Jag tar med mig erfarenheten av att arbeta strukturerat med brancher och Pull Requests.
+
 ### [Namn]
 (2–3 meningar)
