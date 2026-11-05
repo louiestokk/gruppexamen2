@@ -78,10 +78,10 @@ På vår 5 minuters Daily gick alla igenom vad de arbetat med och vad de skulle 
 - [Louie]: gjort: klart US-2 och US-2, reviewat och approvat Paulinas Prs, uppdatera Sprinplaneringen med dailys noteringar / gör nu: se till att sprinttavlan är up to date,  examen frågorna och uppdatera Sprintplaneringen i README. / hinder: har inte stött på några hinder hittils.
 
 ## Retrospektiv
-- Start:
-- Stop:
-- Continue:
-- Konkret förbättring:
+- Start: Något vi vill börja göra i framtida sprintar.
+- Stop: I denna sprint hade vi direkt inget som hindrarde oss, en liten mindre utmaning var bara att få till tider som passar alla i teamet. 
+- Continue: Något vi gjorde riktigt bra var att vi alla var synkad och uppkopplade i discord servern och kunde på så sätt alltid hjälpa varandra och driva processen frammåt.
+- Konkret förbättring: Att förenkla Sprinttavalan genom att använda ett bra verktyg för det som Trello eller Jira. 
 
 ## Teorifrågor
 1. Vad är agil utveckling, och vad i ert arbetssätt den här veckan var agilt?
@@ -99,6 +99,9 @@ En merge-konflikt uppstår när två personer ändrar samma del av en fil och Gi
 ## Personlig reflektion
 ### Paulina
 Jag har lärt mig hur GitHub används i ett teamprojekt och hur reviews bidrar till bättre kvalitet. Jag tar med mig erfarenheten av att arbeta strukturerat med brancher och Pull Requests.
+
+### Louie
+Jag har repeterat hur vi arbetar i ett team med ett gemensamt projekt med scrum metodik och lärt mycket om rollen som Scrum master. Det som jag tar med mig är hur effektivt och bra det blir när man arbetar agilt och nu med mer förståelse kommer detta hjälpa mig i framtiden.
 
 ### [Namn]
 (2–3 meningar)
