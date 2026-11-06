@@ -155,5 +155,9 @@ Jag har repeterat hur vi arbetar i ett team med ett gemensamt projekt med scrum 
 
 ### Zidane
 Jag har lärt mig att använda branches och pull Requests när jag samarbetar i ett team. Till nästa gång tar jag med mig att kommunicera tydligt och hålla koll på vilken branch jag arbetar i.
+
+### Emil
+Jag har lärt mig hur man jobbar i team med branches och Pull Requests på GitHub. Till nästa gång tar jag med mig att granska andras kod snabbare och hålla tavlan uppdaterad.
+
 ### [Namn]
 (2–3 meningar)
