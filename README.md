@@ -12,7 +12,7 @@ Länk till Google Kalkylark/Docs: https://docs.google.com/spreadsheets/d/1MD9hX4
 ---
 
 ## Sprintmål
-När sprinten är avslutad ska kaféets startsida vara en enkel och användarvänlig landningssida där besökaren kan ta del av viktig information om kaféet. Detta inkluderar öppettider, kaffe priser, kontaktuppgifter, allergianpassade alternativ (exempelvis nötfria produkter), kundkort, betalningsmöjligheter, rullstolsanpassning samt information om uteserveringen. 
+När sprinten är avslutad ska kaféets startsida vara en enkel och användarvänlig landningssida där besökaren kan ta del av viktig information om kaféet. Detta inkluderar öppettider, dagens kaka, kaffe priser, kontaktuppgifter, allergianpassade alternativ (exempelvis nötfria produkter), kundkort, erbjudanden, betalningsmöjligheter, rullstolsanpassning samt information om uteserveringen, events och parkering. 
 
 ---
 
