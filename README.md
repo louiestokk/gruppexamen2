@@ -153,5 +153,8 @@ Jag har lärt mig hur GitHub används i ett teamprojekt och hur reviews bidrar t
 ### Louie
 Jag har repeterat hur vi arbetar i ett team med ett gemensamt projekt med scrum metodik och lärt mycket om rollen som Scrum master. Det som jag tar med mig är hur effektivt och bra det blir när man arbetar agilt och nu med mer förståelse kommer detta hjälpa mig i framtiden.
 
+### Emil
+Jag har lärt mig hur man jobbar i team med branches och Pull Requests på GitHub. Till nästa gång tar jag med mig att granska andras kod snabbare och hålla tavlan uppdaterad.
+
 ### [Namn]
 (2–3 meningar)
