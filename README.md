@@ -24,10 +24,45 @@ Genom att dela upp arbetet i kortare utvecklingsfaser får vi möjlighet att kon
 
 ## Produktbacklog
 
-### US-3: Visa kafets adress
-* **User Story:** Som besökare vill jag kunna hitta och navigera mig till caféet.
+### US-1: Visa kaféts öppetider
+* **User Story:** Som en student vill jag se öppettiderna för att veta när jag kan fika.
+* **Acceptanskriterier:** Funktionen `funktion01()` returnerar strängen `"Öppet: 08–16"` så att öppetiderna visas på sidan.
+* **Ansvarig:** Louie Alsaffar
+
+### US-2: Visa dagens kaka 
+* **User Story:** Som en hungrig besökare vill jag se dagens kaka för att veta om jag ska gå dit.
+* **Acceptanskriterier:** Funktionen `funktion02()` returnerar strängen `"Dagens kaka: kanelbulle"` så att dagens kaka visas på sidan.
+* **Ansvarig:** Louie Alsaffar
+
+### US-3: Visa kaféts adress
+* **User Story:** Som besökare vill jag kunna hitta och navigera mig till kafét.
 * **Acceptanskriterier:** Funktionen `funktion03()` returnerar strängen `"Adress: Gitgatan 1"` så att adressen visas på sidan.
 * **Ansvarig:** Louie Alsaffar
+
+### US-6: Visa kaféts telefonnummer
+* **User Story:** Som besökare vill jag hitta telefonnummer till kafét.
+* **Acceptanskriterier:** Funktionen `funktion06()` returnerar strängen `"Adress: Gitgatan 1"` så att kaféts telefonnummer visas på sidan.
+* **Ansvarig:** Emil
+
+### US-7: Visa kaféts information om allergianpassning 
+* **User Story:** Som en besökare med nötallergi vill jag veta om maten innehåller nötter för att kunna äta tryggt..
+* **Acceptanskriterier:** Funktionen `funktion07()` returnerar strängen `"Nötter: ne"` så att information om nötallergi visas på sidan.
+* **Ansvarig:** Emil
+
+### US-8: Visa kaféts parkeringsmöjligheter  
+* **User Story:** Som en bilburen besökare vill jag veta om det finns parkering för att kunna planera min resa.
+* **Acceptanskriterier:** Funktionen `funktion08()` returnerar strängen `"Parkering: 2 timmar gratis"`så att sidan visar att kafét erbjuder 2 timmars fri parkering.
+* **Ansvarig:** Emil
+
+### US-9: Visa veckans erbjudande  
+* **User Story:** Som en prismedveten kund vill jag se veckans erbjudande för att kunna fika billigt.
+* **Acceptanskriterier:** Funktionen `funktion09()` returnerar strängen `"Veckans erbjudande: kaffe + bulle 40 kr"`så att sidan visar att veckans erbjudande.
+* **Ansvarig:** Emil
+
+### US-10: Visa information om event  
+* **User Story:** Som en social besökare vill jag veta när det är eventkväll för att kunna gå på quiz med mina vänner..
+* **Acceptanskriterier:** Funktionen `funktion10()` returnerar strängen `"Eventkväll: quiz torsdag kl. 18"`så att sidan visar kafets olika event.
+* **Ansvarig:** Emil
 
 ### US-12: Visa information om betalningsmetoder
 * **User Story:**  Som en kund vill jag se vilka betalningsmetoder som accepteras på caféet för att veta hur jag kan betala mitt köp.
@@ -71,11 +106,13 @@ På vår 5 minuters Daily gick alla igenom vad de arbetat med och vad de skulle 
 - [Emil]: gjort:  US-7 och US-8 klara med egna branches och PR:er, granskat Louies PR:er / gör nu: skriver US-9 och US-10 i backloggen och mergar mina PR:er / hinder: inga 
 
 
-### [Datum 3 - Torsdag]
+### [2026-11-05 - Torsdag]
 
  - [Paulina]: gjort: merged Louies PR, fyllt i readme med mina user stories och min personlig reflektion / gör nu: skriver svar tioll teorifrågorna / hinder: inga.
 
 - [Louie]: gjort: klart US-2 och US-2, reviewat och approvat Paulinas Prs, uppdatera Sprinplaneringen med dailys noteringar / gör nu: se till att sprinttavlan är up to date,  examen frågorna och uppdatera Sprintplaneringen i README. / hinder: har inte stött på några hinder hittils.
+
+- [Emil]: gjort: US-7 och US-8 är godkända och mergade, och jag har gjort US-9 och US-10 på egna branches med PR:er / gör nu: väntar på granskning av US-9 och US-10 och skriver min personliga reflektion i README / hinder: inga
 
 ## Retrospektiv
 - Start: Något vi vill börja göra i framtida sprintar.
