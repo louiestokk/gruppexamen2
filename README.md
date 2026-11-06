@@ -78,10 +78,13 @@ På vår 5 minuters Daily gick alla igenom vad de arbetat med och vad de skulle 
 - [Louie]: gjort: klart US-2 och US-2, reviewat och approvat Paulinas Prs, uppdatera Sprinplaneringen med dailys noteringar / gör nu: se till att sprinttavlan är up to date,  examen frågorna och uppdatera Sprintplaneringen i README. / hinder: har inte stött på några hinder hittils.
 
 ## Retrospektiv
-- Start: Något vi vill börja göra i framtida sprintar.
-- Stop: I denna sprint hade vi direkt inget som hindrarde oss, en liten mindre utmaning var bara att få till tider som passar alla i teamet. 
-- Continue: Något vi gjorde riktigt bra var att vi alla var synkad och uppkopplade i discord servern och kunde på så sätt alltid hjälpa varandra och driva processen frammåt.
-- Konkret förbättring: Att förenkla Sprinttavalan genom att använda ett bra verktyg för det som Trello eller Jira. 
+**- Start:** Vi vill börja ha tydligare tider för möten och genomföra kodgranskningar direkt efter att en Pull Request skapats. Vi vill även bli bättre på att uppdatera sprinttavlan löpande och kommunicera tidigt om någon stöter på problem med Git eller merge-konflikter.
+
+**- Stop:** Vi vill sluta vänta för länge med att uppdatera tavlan eftersom det gjorde det svårare att få en tydlig överblick över projektets status. Den största utmaningen under sprinten var att hitta tider som passade hela gruppen, vilket vi vill göra enklare framöver genom bättre planering.
+
+**- Continue:** Vi vill fortsätta använda Pull Requests för alla ändringar eftersom det gav en tydlig historik över arbetet och skapade ett bra arbetsflöde. Vi vill även fortsätta med dagliga standups och vår aktiva kommunikation via Discord, eftersom det hjälpte oss att hålla oss synkroniserade, stötta varandra och snabbt lösa problem som uppstod.
+
+**- Konkret förbättring:** Nästa sprint ska varje Pull Request granskas och godkännas samma dag som den skapas för att undvika flaskhalsar. Vi vill även använda ett mer specialiserat verktyg för sprintplanering och uppföljning, till exempel Trello eller Jira, för att göra sprinttavlan tydligare och enklare att underhålla.
 
 ## Teorifrågor
 1. Vad är agil utveckling, och vad i ert arbetssätt den här veckan var agilt?
