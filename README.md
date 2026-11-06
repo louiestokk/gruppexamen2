@@ -2,7 +2,7 @@
 
 ## Scrum-roller
 * **Scrum Master:** Louie Alsaffar (även utvecklare)
-* **Utvecklare:** Emil, Paulina
+* **Utvecklare:** Emil, Paulina, Zidane
 
 ---
 
@@ -12,7 +12,7 @@ Länk till Google Kalkylark/Docs: https://docs.google.com/spreadsheets/d/1MD9hX4
 ---
 
 ## Sprintmål
-När sprinten är avslutad ska kaféets startsida vara en enkel och användarvänlig landningssida där besökaren kan ta del av viktig information om kaféet. Detta inkluderar öppettider, dagens kaka, kaffe priser, kontaktuppgifter, allergianpassade alternativ (exempelvis nötfria produkter), kundkort, erbjudanden, betalningsmöjligheter, rullstolsanpassning samt information om uteserveringen, events och parkering. 
+När sprinten är avslutad ska kaféets startsida vara en enkel och användarvänlig landningssida där besökaren kan ta del av viktig information om kaféet. Detta inkluderar öppettider, dagens kaka, kaffe priser, kontaktuppgifter, allergianpassade alternativ (exempelvis nötfria produkter), vegetariskt alternativ, wifi och lösenord, kundkort, erbjudanden, betalningsmöjligheter, rullstolsanpassning samt information om uteserveringen, events och parkering. 
 
 ---
 
@@ -39,6 +39,11 @@ Genom att dela upp arbetet i kortare utvecklingsfaser får vi möjlighet att kon
 * **Acceptanskriterier:** Funktionen `funktion03()` returnerar strängen `"Adress: Gitgatan 1"` så att adressen visas på sidan.
 * **Ansvarig:** Louie Alsaffar
 
+### US-5: Visa att kafét har Wifi och visa även wifi psw
+* **User Story:** Som besökare vill jag veta om kafét har wifi och vill isåfall enkelt kunna få access till det.
+* **Acceptanskriterier:** Funktionen `funktion05()` returnerar strängen `"Wifi: kafe-gast"` Visa att wifi finns och lösenord till wifi.
+* **Ansvarig:** Zidane
+
 ### US-6: Visa kaféts telefonnummer
 * **User Story:** Som besökare vill jag hitta telefonnummer till kafét.
 * **Acceptanskriterier:** Funktionen `funktion06()` returnerar strängen `"Adress: Gitgatan 1"` så att kaféts telefonnummer visas på sidan.
@@ -63,6 +68,11 @@ Genom att dela upp arbetet i kortare utvecklingsfaser får vi möjlighet att kon
 * **User Story:** Som en social besökare vill jag veta när det är eventkväll för att kunna gå på quiz med mina vänner..
 * **Acceptanskriterier:** Funktionen `funktion10()` returnerar strängen `"Eventkväll: quiz torsdag kl. 18"`så att sidan visar kafets olika event.
 * **Ansvarig:** Emil
+
+### US-11: Visa de vegetariska alternativen
+* **User Story:** Som vegetarian vill jag veta om kafét har vegetariska rätter.
+* **Acceptanskriterier:** Funktionen `funktion11()` returnerar strängen `"Vegetariskt: dagens soppa"` Visa Vegetariskt och den vegetariska rätten.
+* **Ansvarig:** Zidane
 
 ### US-12: Visa information om betalningsmetoder
 * **User Story:**  Som en kund vill jag se vilka betalningsmetoder som accepteras på caféet för att veta hur jag kan betala mitt köp.
